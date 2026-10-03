@@ -14,7 +14,7 @@
       --muted: #888;
       --border: #2a2a2a;
       --success: #00e676;
-    }  
+    }   
 
     * {
       margin: 0;
